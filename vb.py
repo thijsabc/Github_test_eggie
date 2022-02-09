@@ -14,7 +14,7 @@ plt.scatter(x, y, c='k')
 # opmaak
 plt.xlabel("$x$", c='violet')
 plt.ylabel("$y$", c='green')
-okt.grid()
+plt.grid()
 
 plt.show()
 
